@@ -33,9 +33,10 @@ This repository will showcase:
 ---
 
 ## **Connect With Me**
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/yousef-almalki-a46540259/))  
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yousef-almalki-a46540259/)  
 - **Portfolio Website:** [Visit My Portfolio](https://sites.psu.edu/yousefsportfolio)  
-- **Email:** [your.email@example.com](mailto:malki1740@hotmail.com)
+- **Email:** [malki1740@hotmail.com](mailto:malki1740@hotmail.com)
+
 
 ---
 
